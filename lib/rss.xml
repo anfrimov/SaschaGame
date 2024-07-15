@@ -1,0 +1,462 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[SashaGame]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>SashaGame</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 15 Jul 2024 23:47:49 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 15 Jul 2024 23:47:49 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Beero Empire]]></title><description><![CDATA[ 
+ <br>Similar in style to the Holy Roman Empire<br>
+<br>Main religion is connected to <a data-href="Trea'mor" href="/gods/trea'mor.html" class="internal-link" target="_self" rel="noopener">Trea'mor</a>
+<br>Ruling house of half-elf / half-kobolds
+]]></description><link>factions/beero-empire.html</link><guid isPermaLink="false">Factions/Beero Empire.md</guid><pubDate>Wed, 03 Jul 2024 12:37:16 GMT</pubDate></item><item><title><![CDATA[Dalom Empire]]></title><description><![CDATA[ 
+ <br>Similar in style to the Ottoman Empire<br>
+<br>Worship <a data-href="God in Dalom" href="/gods/god-in-dalom.html" class="internal-link" target="_self" rel="noopener">God in Dalom</a>
+<br>Ruled by a house of gnomes
+]]></description><link>factions/dalom-empire.html</link><guid isPermaLink="false">Factions/Dalom Empire.md</guid><pubDate>Wed, 03 Jul 2024 14:07:47 GMT</pubDate></item><item><title><![CDATA[Fire Brigade]]></title><description><![CDATA[ 
+ <br>An important government entity in <a data-href="Local Region" href="/locations/local-region.html" class="internal-link" target="_self" rel="noopener">Local Region</a>. Responsible for putting out fires and protecting people from the elementals coming down from <a data-href="Mount Bolbotan" href="/locations/mount-bolbotan.html" class="internal-link" target="_self" rel="noopener">Mount Bolbotan</a>.<br><br>
+<br><a data-href="Saboh Layosh" href="/npcs/saboh-layosh.html" class="internal-link" target="_self" rel="noopener">Saboh Layosh</a> - Chief
+<br><a data-href="Merike" href="/npcs/merike.html" class="internal-link" target="_self" rel="noopener">Merike</a> - firetruck dragon
+<br><a data-href="Anastriella" href="/npcs/anastriella.html" class="internal-link" target="_self" rel="noopener">Anastriella</a> - artificer
+<br><a data-href="Beverly" href="/npcs/beverly.html" class="internal-link" target="_self" rel="noopener">Beverly</a>
+]]></description><link>factions/fire-brigade.html</link><guid isPermaLink="false">Factions/Fire Brigade.md</guid><pubDate>Wed, 03 Jul 2024 13:58:25 GMT</pubDate></item><item><title><![CDATA[God in Dalom]]></title><description><![CDATA[ 
+ <br><br>
+<br>Light
+<br>Arcana
+<br><br>
+<br><a data-href="Dalom Empire" href="/factions/dalom-empire.html" class="internal-link" target="_self" rel="noopener">Dalom Empire</a>
+]]></description><link>gods/god-in-dalom.html</link><guid isPermaLink="false">Gods/God in Dalom.md</guid><pubDate>Wed, 03 Jul 2024 12:40:20 GMT</pubDate></item><item><title><![CDATA[Perforus]]></title><description><![CDATA[ 
+ <br><br>
+<br>Fire?
+<br>Forge?
+<br><br>
+<br>Temple in <a data-href="Mount Bolbotan" href="/locations/mount-bolbotan.html" class="internal-link" target="_self" rel="noopener">Mount Bolbotan</a> volcano. 
+<br>Often sends fiery beasts out into the world. 
+<br>Some divine shrimp claimed Perforus was trying to teach the world how to deal with fire because the volcano will soon erupt. Priests don't believe it will.
+]]></description><link>gods/perforus.html</link><guid isPermaLink="false">Gods/Perforus.md</guid><pubDate>Wed, 03 Jul 2024 13:17:47 GMT</pubDate></item><item><title><![CDATA[Trea'mor]]></title><description><![CDATA[ 
+ <br><br>
+<br>Tempest
+<br>Knowledge
+<br><br>
+<br><a data-href="Beero Empire" href="/factions/beero-empire.html" class="internal-link" target="_self" rel="noopener">Beero Empire</a>
+<br><br>
+<br><a data-href="Romero" href="/pcs/romero.html" class="internal-link" target="_self" rel="noopener">Romero</a>
+<br><a data-href="Sösmöt" href="/npcs/sösmöt.html" class="internal-link" target="_self" rel="noopener">Sösmöt</a>
+<br><a data-href="Brother Leywin" href="/npcs/brother-leywin.html" class="internal-link" target="_self" rel="noopener">Brother Leywin</a>
+<br><a data-href="Sister Marygold" href="/npcs/sister-marygold.html" class="internal-link" target="_self" rel="noopener">Sister Marygold</a>
+]]></description><link>gods/trea'mor.html</link><guid isPermaLink="false">Gods/Trea'mor.md</guid><pubDate>Wed, 03 Jul 2024 12:39:29 GMT</pubDate></item><item><title><![CDATA[Cursed Stone]]></title><description><![CDATA[ 
+ <br>Appears at first glance to be a sending stone, but is engraved with an infernal rune and apparently cursed. Found by <a data-href="Sösmöt" href="/npcs/sösmöt.html" class="internal-link" target="_self" rel="noopener">Sösmöt</a> at the <a data-href="Sunken Mausoleum" href="/locations/sunken-mausoleum.html" class="internal-link" target="_self" rel="noopener">Sunken Mausoleum</a>. <br>
+<br>Reappears on <a data-href="Sösmöt" href="/npcs/sösmöt.html" class="internal-link" target="_self" rel="noopener">Sösmöt</a>'s person if he lets go of it for any reason.
+<br>Gives off infernal / unholy vibes.
+]]></description><link>items/cursed-stone.html</link><guid isPermaLink="false">Items/Cursed Stone.md</guid><pubDate>Wed, 03 Jul 2024 12:41:25 GMT</pubDate></item><item><title><![CDATA[Alfbern]]></title><description><![CDATA[ 
+ <br>Largest settlement in the region of <a data-href="Local Region" href="/locations/local-region.html" class="internal-link" target="_self" rel="noopener">Local Region</a> (large village / small town). Not exactly in the geographical center of the region, but stands as the cultural, trade, and religious center of the region, with multiple temples. North of <a data-href="Bolto Lake" href="/Bolto Lake" class="internal-link" target="_self" rel="noopener">Bolto Lake</a> and connected to the lake by swampy marshes and artificial channels. Located within a basin: surrounded by mountains in the north. Alfbern is the center of the <a data-href="Fire Brigade" href="/factions/fire-brigade.html" class="internal-link" target="_self" rel="noopener">Fire Brigade</a>. ]]></description><link>locations/alfbern.html</link><guid isPermaLink="false">Locations/Alfbern.md</guid><pubDate>Wed, 03 Jul 2024 13:00:56 GMT</pubDate></item><item><title><![CDATA[Bluewell]]></title><description><![CDATA[ 
+ <br>
+<br>There is a library here with a book called "The Big Blue Book of Methods Against Mephits"
+]]></description><link>locations/bluewell.html</link><guid isPermaLink="false">Locations/Bluewell.md</guid><pubDate>Wed, 03 Jul 2024 10:36:17 GMT</pubDate></item><item><title><![CDATA[Greysilk Kingdom]]></title><description><![CDATA[ 
+ <br><br>Kingdom is on the border between the <a data-tooltip-position="top" aria-label="Beero Empire" data-href="Beero Empire" href="/factions/beero-empire.html" class="internal-link" target="_self" rel="noopener">Beero</a> and <a data-tooltip-position="top" aria-label="Dalom Empire" data-href="Dalom Empire" href="/factions/dalom-empire.html" class="internal-link" target="_self" rel="noopener">Dalom</a> empires. It is even more unstable and ungovernable than the surrounding region, thus neither empire has a strong presence here.<br>
+<br>Current King is a young halfling.
+<br>Some strong magic here
+<br><br>
+<br>Gnome
+<br>Halfling
+<br>Elf
+<br>Human
+<br>Orc
+<br>Dwarf
+<br><br>
+<br><a data-href="Local Region" href="/locations/local-region.html" class="internal-link" target="_self" rel="noopener">Local Region</a>
+]]></description><link>locations/greysilk-kingdom.html</link><guid isPermaLink="false">Locations/Greysilk Kingdom.md</guid><pubDate>Wed, 03 Jul 2024 13:10:10 GMT</pubDate></item><item><title><![CDATA[Headless Vargouille]]></title><description><![CDATA[ 
+ <br>The inn in <a data-href="Alfbern" href="/locations/alfbern.html" class="internal-link" target="_self" rel="noopener">Alfbern</a> run by <a data-href="Amit" href="/npcs/amit.html" class="internal-link" target="_self" rel="noopener">Amit</a> where <a data-href="Finvelinor" href="/pcs/finvelinor.html" class="internal-link" target="_self" rel="noopener">Finvelinor</a> and <a data-href="Melinor" href="/pcs/melinor.html" class="internal-link" target="_self" rel="noopener">Melinor</a> were staying for a time. ]]></description><link>locations/headless-vargouille.html</link><guid isPermaLink="false">Locations/Headless Vargouille.md</guid><pubDate>Wed, 03 Jul 2024 12:30:25 GMT</pubDate></item><item><title><![CDATA[Local Region]]></title><description><![CDATA[ 
+ <br><br>Swampy area with lots of reeds, thatch roof houses, very flammable. Mostly made up of small villages. The <a data-href="Fire Brigade" href="/factions/fire-brigade.html" class="internal-link" target="_self" rel="noopener">Fire Brigade</a> plays a very important governmental role in the region. <br><br><a class="leaflet-control-zoom-in" href="/#" title="Zoom in" role="button" aria-label="Zoom in">+</a><a class="leaflet-control-zoom-out" href="/#" title="Zoom out" role="button" aria-label="Zoom out">−</a><a class="leaflet-control-fullscreen-button leaflet-bar-part" href="/#" title="View Fullscreen" aria-label="Toggle Full Screen"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="expand" class="svg-inline--fa fa-expand fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M0 180V56c0-13.3 10.7-24 24-24h124c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12H64v84c0 6.6-5.4 12-12 12H12c-6.6 0-12-5.4-12-12zM288 44v40c0 6.6 5.4 12 12 12h84v84c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12V56c0-13.3-10.7-24-24-24H300c-6.6 0-12 5.4-12 12zm148 276h-40c-6.6 0-12 5.4-12 12v84h-84c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h124c13.3 0 24-10.7 24-24V332c0-6.6-5.4-12-12-12zM160 468v-40c0-6.6-5.4-12-12-12H64v-84c0-6.6-5.4-12-12-12H12c-6.6 0-12 5.4-12 12v124c0 13.3 10.7 24 24 24h124c6.6 0 12-5.4 12-12z"></path></svg></a><a class="leaflet-control-zoom-markers-icon" href="/#" aria-label="Show All Markers"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="map-marked-alt" class="svg-inline--fa fa-map-marked-alt fa-w-18" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="currentColor" d="M288 0c-69.59 0-126 56.41-126 126 0 56.26 82.35 158.8 113.9 196.02 6.39 7.54 17.82 7.54 24.2 0C331.65 284.8 414 182.26 414 126 414 56.41 357.59 0 288 0zm0 168c-23.2 0-42-18.8-42-42s18.8-42 42-42 42 18.8 42 42-18.8 42-42 42zM20.12 215.95A32.006 32.006 0 0 0 0 245.66v250.32c0 11.32 11.43 19.06 21.94 14.86L160 448V214.92c-8.84-15.98-16.07-31.54-21.25-46.42L20.12 215.95zM288 359.67c-14.07 0-27.38-6.18-36.51-16.96-19.66-23.2-40.57-49.62-59.49-76.72v182l192 64V266c-18.92 27.09-39.82 53.52-59.49 76.72-9.13 10.77-22.44 16.95-36.51 16.95zm266.06-198.51L416 224v288l139.88-55.95A31.996 31.996 0 0 0 576 426.34V176.02c0-11.32-11.43-19.06-21.94-14.86z"></path></svg></a><a class="leaflet-control-reset-zoom-icon" href="/#"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="bullseye" class="svg-inline--fa fa-bullseye fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path fill="currentColor" d="M248 8C111.03 8 0 119.03 0 256s111.03 248 248 248 248-111.03 248-248S384.97 8 248 8zm0 432c-101.69 0-184-82.29-184-184 0-101.69 82.29-184 184-184 101.69 0 184 82.29 184 184 0 101.69-82.29 184-184 184zm0-312c-70.69 0-128 57.31-128 128s57.31 128 128 128 128-57.31 128-128-57.31-128-128-128zm0 192c-35.29 0-64-28.71-64-64s28.71-64 64-64 64 28.71 64 64-28.71 64-64 64z"></path></svg></a><a class="leaflet-control-expandable-icon" href="/#" aria-label="Filter Markers" data-draggable="false"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="filter" class="svg-inline--fa fa-filter fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M487.976 0H24.028C2.71 0-8.047 25.866 7.058 40.971L192 225.941V432c0 7.831 3.821 15.17 10.237 19.662l80 55.98C298.02 518.69 320 507.493 320 487.98V225.941l184.947-184.97C520.021 25.896 509.338 0 487.976 0z"></path></svg></a><a class="leaflet-control-lock-icon" href="/#" aria-label="Lock Map"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="unlock" class="svg-inline--fa fa-unlock fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M400 256H152V152.9c0-39.6 31.7-72.5 71.3-72.9 40-.4 72.7 32.1 72.7 72v16c0 13.3 10.7 24 24 24h32c13.3 0 24-10.7 24-24v-16C376 68 307.5-.3 223.5 0 139.5.3 72 69.5 72 153.5V256H48c-26.5 0-48 21.5-48 48v160c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"></path></svg></a>0 mi<a class="leaflet-control-expandable-icon" href="/#" aria-label="Draw" data-draggable="false"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="shapes" class="svg-inline--fa fa-shapes fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M128,256A128,128,0,1,0,256,384,128,128,0,0,0,128,256Zm379-54.86L400.07,18.29a37.26,37.26,0,0,0-64.14,0L229,201.14C214.76,225.52,232.58,256,261.09,256H474.91C503.42,256,521.24,225.52,507,201.14ZM480,288H320a32,32,0,0,0-32,32V480a32,32,0,0,0,32,32H480a32,32,0,0,0,32-32V320A32,32,0,0,0,480,288Z"></path></svg></a><a class="leaflet-control-has-actions leaflet-control-draw-polygon-icon" href="/#" aria-label="Polygon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="draw-polygon" class="svg-inline--fa fa-draw-polygon fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M384 352c-.35 0-.67.1-1.02.1l-39.2-65.32c5.07-9.17 8.22-19.56 8.22-30.78s-3.14-21.61-8.22-30.78l39.2-65.32c.35.01.67.1 1.02.1 35.35 0 64-28.65 64-64s-28.65-64-64-64c-23.63 0-44.04 12.95-55.12 32H119.12C108.04 44.95 87.63 32 64 32 28.65 32 0 60.65 0 96c0 23.63 12.95 44.04 32 55.12v209.75C12.95 371.96 0 392.37 0 416c0 35.35 28.65 64 64 64 23.63 0 44.04-12.95 55.12-32h209.75c11.09 19.05 31.49 32 55.12 32 35.35 0 64-28.65 64-64 .01-35.35-28.64-64-63.99-64zm-288 8.88V151.12A63.825 63.825 0 0 0 119.12 128h208.36l-38.46 64.1c-.35-.01-.67-.1-1.02-.1-35.35 0-64 28.65-64 64s28.65 64 64 64c.35 0 .67-.1 1.02-.1l38.46 64.1H119.12A63.748 63.748 0 0 0 96 360.88zM272 256c0-8.82 7.18-16 16-16s16 7.18 16 16-7.18 16-16 16-16-7.18-16-16zM400 96c0 8.82-7.18 16-16 16s-16-7.18-16-16 7.18-16 16-16 16 7.18 16 16zM64 80c8.82 0 16 7.18 16 16s-7.18 16-16 16-16-7.18-16-16 7.18-16 16-16zM48 416c0-8.82 7.18-16 16-16s16 7.18 16 16-7.18 16-16 16-16-7.18-16-16zm336 16c-8.82 0-16-7.18-16-16s7.18-16 16-16 16 7.18 16 16-7.18 16-16 16z"></path></svg></a><a class="leaflet-control-complete-icon" href="/#" aria-label="Finish"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="check" class="svg-inline--fa fa-check fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></a><a class="leaflet-control-undo-icon" href="/#" aria-label="Undo"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="undo-alt" class="svg-inline--fa fa-undo-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M255.545 8c-66.269.119-126.438 26.233-170.86 68.685L48.971 40.971C33.851 25.851 8 36.559 8 57.941V192c0 13.255 10.745 24 24 24h134.059c21.382 0 32.09-25.851 16.971-40.971l-41.75-41.75c30.864-28.899 70.801-44.907 113.23-45.273 92.398-.798 170.283 73.977 169.484 169.442C423.236 348.009 349.816 424 256 424c-41.127 0-79.997-14.678-110.63-41.556-4.743-4.161-11.906-3.908-16.368.553L89.34 422.659c-4.872 4.872-4.631 12.815.482 17.433C133.798 479.813 192.074 504 256 504c136.966 0 247.999-111.033 248-247.998C504.001 119.193 392.354 7.755 255.545 8z"></path></svg></a><a class="leaflet-control-cancel-icon" href="/#" aria-label="Cancel"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="times-circle" class="svg-inline--fa fa-times-circle fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm121.6 313.1c4.7 4.7 4.7 12.3 0 17L338 377.6c-4.7 4.7-12.3 4.7-17 0L256 312l-65.1 65.6c-4.7 4.7-12.3 4.7-17 0L134.4 338c-4.7-4.7-4.7-12.3 0-17l65.6-65-65.6-65.1c-4.7-4.7-4.7-12.3 0-17l39.6-39.6c4.7-4.7 12.3-4.7 17 0l65 65.7 65.1-65.6c4.7-4.7 12.3-4.7 17 0l39.6 39.6c4.7 4.7 4.7 12.3 0 17L312 256l65.6 65.1z"></path></svg></a><a class="leaflet-control-has-actions leaflet-control-draw-rectangle-icon" href="/#" aria-label="Rectangle"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="vector-square" class="svg-inline--fa fa-vector-square fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M512 128V32c0-17.67-14.33-32-32-32h-96c-17.67 0-32 14.33-32 32H160c0-17.67-14.33-32-32-32H32C14.33 0 0 14.33 0 32v96c0 17.67 14.33 32 32 32v192c-17.67 0-32 14.33-32 32v96c0 17.67 14.33 32 32 32h96c17.67 0 32-14.33 32-32h192c0 17.67 14.33 32 32 32h96c17.67 0 32-14.33 32-32v-96c0-17.67-14.33-32-32-32V160c17.67 0 32-14.33 32-32zm-96-64h32v32h-32V64zM64 64h32v32H64V64zm32 384H64v-32h32v32zm352 0h-32v-32h32v32zm-32-96h-32c-17.67 0-32 14.33-32 32v32H160v-32c0-17.67-14.33-32-32-32H96V160h32c17.67 0 32-14.33 32-32V96h192v32c0 17.67 14.33 32 32 32h32v192z"></path></svg></a><a class="leaflet-control-undo-icon" href="/#" aria-label="Undo"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="undo-alt" class="svg-inline--fa fa-undo-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M255.545 8c-66.269.119-126.438 26.233-170.86 68.685L48.971 40.971C33.851 25.851 8 36.559 8 57.941V192c0 13.255 10.745 24 24 24h134.059c21.382 0 32.09-25.851 16.971-40.971l-41.75-41.75c30.864-28.899 70.801-44.907 113.23-45.273 92.398-.798 170.283 73.977 169.484 169.442C423.236 348.009 349.816 424 256 424c-41.127 0-79.997-14.678-110.63-41.556-4.743-4.161-11.906-3.908-16.368.553L89.34 422.659c-4.872 4.872-4.631 12.815.482 17.433C133.798 479.813 192.074 504 256 504c136.966 0 247.999-111.033 248-247.998C504.001 119.193 392.354 7.755 255.545 8z"></path></svg></a><a class="leaflet-control-cancel-icon" href="/#" aria-label="Cancel"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="times-circle" class="svg-inline--fa fa-times-circle fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm121.6 313.1c4.7 4.7 4.7 12.3 0 17L338 377.6c-4.7 4.7-12.3 4.7-17 0L256 312l-65.1 65.6c-4.7 4.7-12.3 4.7-17 0L134.4 338c-4.7-4.7-4.7-12.3 0-17l65.6-65-65.6-65.1c-4.7-4.7-4.7-12.3 0-17l39.6-39.6c4.7-4.7 12.3-4.7 17 0l65 65.7 65.1-65.6c4.7-4.7 12.3-4.7 17 0l39.6 39.6c4.7 4.7 4.7 12.3 0 17L312 256l65.6 65.1z"></path></svg></a><a class="leaflet-control-has-actions leaflet-control-draw-polyline-icon" href="/#" aria-label="Polyline"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="project-diagram" class="svg-inline--fa fa-project-diagram fa-w-20" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="currentColor" d="M384 320H256c-17.67 0-32 14.33-32 32v128c0 17.67 14.33 32 32 32h128c17.67 0 32-14.33 32-32V352c0-17.67-14.33-32-32-32zM192 32c0-17.67-14.33-32-32-32H32C14.33 0 0 14.33 0 32v128c0 17.67 14.33 32 32 32h95.72l73.16 128.04C211.98 300.98 232.4 288 256 288h.28L192 175.51V128h224V64H192V32zM608 0H480c-17.67 0-32 14.33-32 32v128c0 17.67 14.33 32 32 32h128c17.67 0 32-14.33 32-32V32c0-17.67-14.33-32-32-32z"></path></svg></a><a class="leaflet-control-complete-icon" href="/#" aria-label="Finish"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="check" class="svg-inline--fa fa-check fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></a><a class="leaflet-control-arrow-icon" href="/#" aria-label="Add Arrows to Line"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="arrow-up" class="svg-inline--fa fa-arrow-up fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M34.9 289.5l-22.2-22.2c-9.4-9.4-9.4-24.6 0-33.9L207 39c9.4-9.4 24.6-9.4 33.9 0l194.3 194.3c9.4 9.4 9.4 24.6 0 33.9L413 289.4c-9.5 9.5-25 9.3-34.3-.4L264 168.6V456c0 13.3-10.7 24-24 24h-32c-13.3 0-24-10.7-24-24V168.6L69.2 289.1c-9.3 9.8-24.8 10-34.3.4z"></path></svg></a><a class="leaflet-control-undo-icon" href="/#" aria-label="Undo"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="undo-alt" class="svg-inline--fa fa-undo-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M255.545 8c-66.269.119-126.438 26.233-170.86 68.685L48.971 40.971C33.851 25.851 8 36.559 8 57.941V192c0 13.255 10.745 24 24 24h134.059c21.382 0 32.09-25.851 16.971-40.971l-41.75-41.75c30.864-28.899 70.801-44.907 113.23-45.273 92.398-.798 170.283 73.977 169.484 169.442C423.236 348.009 349.816 424 256 424c-41.127 0-79.997-14.678-110.63-41.556-4.743-4.161-11.906-3.908-16.368.553L89.34 422.659c-4.872 4.872-4.631 12.815.482 17.433C133.798 479.813 192.074 504 256 504c136.966 0 247.999-111.033 248-247.998C504.001 119.193 392.354 7.755 255.545 8z"></path></svg></a><a class="leaflet-control-cancel-icon" href="/#" aria-label="Cancel"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="times-circle" class="svg-inline--fa fa-times-circle fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm121.6 313.1c4.7 4.7 4.7 12.3 0 17L338 377.6c-4.7 4.7-12.3 4.7-17 0L256 312l-65.1 65.6c-4.7 4.7-12.3 4.7-17 0L134.4 338c-4.7-4.7-4.7-12.3 0-17l65.6-65-65.6-65.1c-4.7-4.7-4.7-12.3 0-17l39.6-39.6c4.7-4.7 12.3-4.7 17 0l65 65.7 65.1-65.6c4.7-4.7 12.3-4.7 17 0l39.6 39.6c4.7 4.7 4.7 12.3 0 17L312 256l65.6 65.1z"></path></svg></a><a class="leaflet-control-has-actions leaflet-control-draw-paint-icon" href="/#" aria-label="Color" style="color: #3388FF"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="circle" class="svg-inline--fa fa-circle fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z"></path></svg></a><a class="leaflet-control-fill-color-icon" href="/#" aria-label="Fill Color"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="fill-drip" class="svg-inline--fa fa-fill-drip fa-w-18" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="currentColor" d="M512 320s-64 92.65-64 128c0 35.35 28.66 64 64 64s64-28.65 64-64-64-128-64-128zm-9.37-102.94L294.94 9.37C288.69 3.12 280.5 0 272.31 0s-16.38 3.12-22.62 9.37l-81.58 81.58L81.93 4.76c-6.25-6.25-16.38-6.25-22.62 0L36.69 27.38c-6.24 6.25-6.24 16.38 0 22.62l86.19 86.18-94.76 94.76c-37.49 37.48-37.49 98.26 0 135.75l117.19 117.19c18.74 18.74 43.31 28.12 67.87 28.12 24.57 0 49.13-9.37 67.87-28.12l221.57-221.57c12.5-12.5 12.5-32.75.01-45.25zm-116.22 70.97H65.93c1.36-3.84 3.57-7.98 7.43-11.83l13.15-13.15 81.61-81.61 58.6 58.6c12.49 12.49 32.75 12.49 45.24 0s12.49-32.75 0-45.24l-58.6-58.6 58.95-58.95 162.44 162.44-48.34 48.34z"></path></svg></a><a class="leaflet-control-has-actions leaflet-control-draw-palette-icon" href="/#" aria-label="Color"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="palette" class="svg-inline--fa fa-palette fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M204.3 5C104.9 24.4 24.8 104.3 5.2 203.4c-37 187 131.7 326.4 258.8 306.7 41.2-6.4 61.4-54.6 42.5-91.7-23.1-45.4 9.9-98.4 60.9-98.4h79.7c35.8 0 64.8-29.6 64.9-65.3C511.5 97.1 368.1-26.9 204.3 5zM96 320c-17.7 0-32-14.3-32-32s14.3-32 32-32 32 14.3 32 32-14.3 32-32 32zm32-128c-17.7 0-32-14.3-32-32s14.3-32 32-32 32 14.3 32 32-14.3 32-32 32zm128-64c-17.7 0-32-14.3-32-32s14.3-32 32-32 32 14.3 32 32-14.3 32-32 32zm128 64c-17.7 0-32-14.3-32-32s14.3-32 32-32 32 14.3 32 32-14.3 32-32 32z"></path></svg></a><a class="leaflet-control-has-actions leaflet-control-draw-drag-icon" href="/#" aria-label="Move Shapes"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="arrows-alt" class="svg-inline--fa fa-arrows-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M352.201 425.775l-79.196 79.196c-9.373 9.373-24.568 9.373-33.941 0l-79.196-79.196c-15.119-15.119-4.411-40.971 16.971-40.97h51.162L228 284H127.196v51.162c0 21.382-25.851 32.09-40.971 16.971L7.029 272.937c-9.373-9.373-9.373-24.569 0-33.941L86.225 159.8c15.119-15.119 40.971-4.411 40.971 16.971V228H228V127.196h-51.23c-21.382 0-32.09-25.851-16.971-40.971l79.196-79.196c9.373-9.373 24.568-9.373 33.941 0l79.196 79.196c15.119 15.119 4.411 40.971-16.971 40.971h-51.162V228h100.804v-51.162c0-21.382 25.851-32.09 40.97-16.971l79.196 79.196c9.373 9.373 9.373 24.569 0 33.941L425.773 352.2c-15.119 15.119-40.971 4.411-40.97-16.971V284H284v100.804h51.23c21.382 0 32.09 25.851 16.971 40.971z"></path></svg></a><a class="leaflet-control-complete-icon" href="/#" aria-label="Finish"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="check" class="svg-inline--fa fa-check fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></a><a class="leaflet-control-has-actions leaflet-control-draw-trash-icon" href="/#" aria-label="Delete Shapes"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="trash" class="svg-inline--fa fa-trash fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M432 32H312l-9.4-18.7A24 24 0 0 0 281.1 0H166.8a23.72 23.72 0 0 0-21.4 13.3L136 32H16A16 16 0 0 0 0 48v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16V48a16 16 0 0 0-16-16zM53.2 467a48 48 0 0 0 47.9 45h245.8a48 48 0 0 0 47.9-45L416 128H32z"></path></svg></a><a class="leaflet-control-complete-icon" href="/#" aria-label="Finish"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="check" class="svg-inline--fa fa-check fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></a><a class="leaflet-control-has-actions leaflet-control-save-icon" href="/#" aria-label="Export Drawing to GeoJSON"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="save" class="svg-inline--fa fa-save fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M433.941 129.941l-83.882-83.882A48 48 0 0 0 316.118 32H48C21.49 32 0 53.49 0 80v352c0 26.51 21.49 48 48 48h352c26.51 0 48-21.49 48-48V163.882a48 48 0 0 0-14.059-33.941zM224 416c-35.346 0-64-28.654-64-64 0-35.346 28.654-64 64-64s64 28.654 64 64c0 35.346-28.654 64-64 64zm96-304.52V212c0 6.627-5.373 12-12 12H76c-6.627 0-12-5.373-12-12V108c0-6.627 5.373-12 12-12h228.52c3.183 0 6.235 1.264 8.485 3.515l3.48 3.48A11.996 11.996 0 0 1 320 111.48z"></path></svg></a><a class="leaflet-control-draw-done-icon" href="/#" aria-label="Done"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="check" class="svg-inline--fa fa-check fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></a><a class="leaflet-control-save-param-icon" href="/#" aria-label="Save Parameters to View"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="save" class="svg-inline--fa fa-save fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M433.941 129.941l-83.882-83.882A48 48 0 0 0 316.118 32H48C21.49 32 0 53.49 0 80v352c0 26.51 21.49 48 48 48h352c26.51 0 48-21.49 48-48V163.882a48 48 0 0 0-14.059-33.941zM224 416c-35.346 0-64-28.654-64-64 0-35.346 28.654-64 64-64s64 28.654 64 64c0 35.346-28.654 64-64 64zm96-304.52V212c0 6.627-5.373 12-12 12H76c-6.627 0-12-5.373-12-12V108c0-6.627 5.373-12 12-12h228.52c3.183 0 6.235 1.264 8.485 3.515l3.48 3.48A11.996 11.996 0 0 1 320 111.48z"></path></svg></a><a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a><br><br>
+<br><a data-href="Alfbern" href="/locations/alfbern.html" class="internal-link" target="_self" rel="noopener">Alfbern</a> (largest in the region)
+<br><a data-href="Bluewell" href="/locations/bluewell.html" class="internal-link" target="_self" rel="noopener">Bluewell</a>
+<br><a data-href="Bolbrima" href="/Bolbrima" class="internal-link" target="_self" rel="noopener">Bolbrima</a>
+<br><br>
+<br><a data-href="Mount Bolbotan" href="/locations/mount-bolbotan.html" class="internal-link" target="_self" rel="noopener">Mount Bolbotan</a> the volcano
+<br><a data-href="Bolto Lake" href="/Bolto Lake" class="internal-link" target="_self" rel="noopener">Bolto Lake</a>
+<br>Temple of <a data-href="Perforus" href="/gods/perforus.html" class="internal-link" target="_self" rel="noopener">Perforus</a>
+]]></description><link>locations/local-region.html</link><guid isPermaLink="false">Locations/Local Region.md</guid><pubDate>Wed, 03 Jul 2024 13:16:16 GMT</pubDate></item><item><title><![CDATA[Mount Bolbotan]]></title><description><![CDATA[ 
+ <br>Volcano in <a data-href="Local Region" href="/locations/local-region.html" class="internal-link" target="_self" rel="noopener">Local Region</a> which houses a Temple to <a data-href="Perforus" href="/gods/perforus.html" class="internal-link" target="_self" rel="noopener">Perforus</a>. <a data-href="Bolbrima" href="/Bolbrima" class="internal-link" target="_self" rel="noopener">Bolbrima</a> sits at its foot. Source of many fire elemental creatures which are a danger to the region.]]></description><link>locations/mount-bolbotan.html</link><guid isPermaLink="false">Locations/Mount Bolbotan.md</guid><pubDate>Wed, 03 Jul 2024 13:13:48 GMT</pubDate></item><item><title><![CDATA[Phur D'eau]]></title><description><![CDATA[ 
+ <br>Town with a good high school where <a data-href="Pishti" href="/npcs/pishti.html" class="internal-link" target="_self" rel="noopener">Pishti</a> goes to school.]]></description><link>locations/phur-d'eau.html</link><guid isPermaLink="false">Locations/Phur D'eau.md</guid><pubDate>Wed, 03 Jul 2024 13:23:53 GMT</pubDate></item><item><title><![CDATA[Sunken Mausoleum]]></title><description><![CDATA[ 
+ <br>A sunken mausoleum buried in the swamp between <a data-href="Alfbern" href="/locations/alfbern.html" class="internal-link" target="_self" rel="noopener">Alfbern</a> and <a data-href="Bluewell" href="/locations/bluewell.html" class="internal-link" target="_self" rel="noopener">Bluewell</a>. Topped by an elven poem of secular origin. Around 100 years old.<br>
+<br>This is where we found <a data-href="Sösmöt" href="/npcs/sösmöt.html" class="internal-link" target="_self" rel="noopener">Sösmöt</a> in <a data-href="Session 2 - Missing Priest" href="/session-notes/session-2-missing-priest.html" class="internal-link" target="_self" rel="noopener">Session 2 - Missing Priest</a>.
+<br><a data-href="Romero" href="/pcs/romero.html" class="internal-link" target="_self" rel="noopener">Romero</a> dived down into the mud to find a locked door with acid bubbling out from the entrance.
+<br>Fin senses the grave has infernal / unholy / desecrated vibes. 
+]]></description><link>locations/sunken-mausoleum.html</link><guid isPermaLink="false">Locations/Sunken Mausoleum.md</guid><pubDate>Wed, 03 Jul 2024 12:22:52 GMT</pubDate></item><item><title><![CDATA[<a data-href="Greysilk Kingdom" href="locations/greysilk-kingdom.html" class="internal-link" target="_self" rel="noopener">Greysilk Kingdom</a>]]></title><description><![CDATA[ 
+ <br><br>
+<br><a data-href="Alfbern" href="/locations/alfbern.html" class="internal-link" target="_self" rel="noopener">Alfbern</a> is maybe where we're starting? - 
+
+<br>center of fire brigade
+<br>multiple temples / religious center
+
+
+<br>Temple for forge god (<a data-href="Perforus" href="/gods/perforus.html" class="internal-link" target="_self" rel="noopener">Perforus</a>) in volcano who often sends fiery beasts out into the world. 
+<br>Our area is swampy, with lots of reeds, thatch roof houses, very flammable. 
+<br>Fire brigade is a very important government structure.
+<br>Mostly small villages. 
+<br>Something magically potent. 
+<br>Country unstable, and this area somehow even more unstable / ungovernable. Not worth it for either Empire to have a permanent presence. 
+<br>Current King is a young halfling.
+<br>Chief of the fire brigade (important NPC with some underlings)
+<br><br>
+<br>
+
+
+<br>
+
+
+<br>
+Other notable mixed races - everything is possible from all the big 7
+
+<br>
+Should we come up with a reason why we're in <a data-href="Alfbern" href="/locations/alfbern.html" class="internal-link" target="_self" rel="noopener">Alfbern</a>? 
+
+<br>
+Are there any tieflings / aasimar / angels / devils / other outsiders and mixing?
+
+<br>
+Potential Warlock patron
+
+<br><br>North of gnome city, southern side of Balto, is where centaurs live. We're going to figure out their genders! "Forming a herd" = marriage. "Register as a herd".<br>
+<br>4 genders (cardinal directions?). 
+<br>Most important is personality traits (like astrology?), and second is bodies (animal type? type of hooves? etc)
+<br>Genders:
+<br>
+<br>tauros (cow, east)
+
+<br>generous, resourceful, anxious, shallow (east)
+<br>veggie
+<br>material: crochet + flannel
+<br>colors: earth tones, neons, yellow
+<br>music: percussion instruments
+<br>scents: bakery, leather
+<br>flavor: bitter
+<br>good with warfare and fashion, bad with magic and religion
+
+
+<br>ovis (sheep, north)
+
+<br>determined, open-minded, melodramatic, foolish
+<br>meatie
+<br>tweed, corduroy
+<br>neons, primary colors, purple
+<br>ethereal instruments
+<br>leather, smoke scents
+<br>sour
+<br>best with trade and warfare, worst in farming and music
+
+
+<br>equus (horse, south)
+
+<br>fast, flirty, petty, pretentious 
+<br>omnivore
+<br>silk, lace
+<br>black and gray, jewel tones, brown (picante)
+<br>wind instruments
+<br>flowers, spices
+<br>salty
+<br>best with education and fashion, worst with cooking and government
+
+
+<br>caprae (goat, west)
+
+<br>flirty, artsy, hoarding, superstitious
+<br>veggie
+<br>velvet, organza/fishnet (mesh)
+<br>jewel tones, earth tones, blue
+<br>vocal music
+<br>smoke, woods
+<br>savory
+<br>best with music and cooking, worst at trade and education
+
+
+]]></description><link>locations/world.html</link><guid isPermaLink="false">Locations/World.md</guid><pubDate>Wed, 03 Jul 2024 13:02:53 GMT</pubDate></item><item><title><![CDATA[Amit]]></title><description><![CDATA[ 
+ <br>The half-elven innkeeper of the <a data-href="Headless Vargouille" href="/locations/headless-vargouille.html" class="internal-link" target="_self" rel="noopener">Headless Vargouille</a>]]></description><link>npcs/amit.html</link><guid isPermaLink="false">NPCs/Amit.md</guid><pubDate>Wed, 03 Jul 2024 11:32:42 GMT</pubDate></item><item><title><![CDATA[Anastriella]]></title><description><![CDATA[ 
+ <br>A half-elven woman who works as an artificer for the <a data-href="Fire Brigade" href="/factions/fire-brigade.html" class="internal-link" target="_self" rel="noopener">Fire Brigade</a>. Loves explosives.<br>
+<br>In a relationship with <a data-href="Saboh Layosh" href="/npcs/saboh-layosh.html" class="internal-link" target="_self" rel="noopener">Saboh Layosh</a> and <a data-href="Merike" href="/npcs/merike.html" class="internal-link" target="_self" rel="noopener">Merike</a>. Had to give up some of her fun with fireworks for Saboh, but still quite excited about them.
+]]></description><link>npcs/anastriella.html</link><guid isPermaLink="false">NPCs/Anastriella.md</guid><pubDate>Wed, 03 Jul 2024 14:05:31 GMT</pubDate></item><item><title><![CDATA[Beverly]]></title><description><![CDATA[ 
+ <br>Human member of the <a data-href="Fire Brigade" href="/factions/fire-brigade.html" class="internal-link" target="_self" rel="noopener">Fire Brigade</a> in <a data-href="Alfbern" href="/locations/alfbern.html" class="internal-link" target="_self" rel="noopener">Alfbern</a>.]]></description><link>npcs/beverly.html</link><guid isPermaLink="false">NPCs/Beverly.md</guid><pubDate>Wed, 03 Jul 2024 11:42:28 GMT</pubDate></item><item><title><![CDATA[Brother Leywin]]></title><description><![CDATA[ 
+ <br>Follower of <a data-href="Trea'mor" href="/gods/trea'mor.html" class="internal-link" target="_self" rel="noopener">Trea'mor</a> in <a data-href="Alfbern" href="/locations/alfbern.html" class="internal-link" target="_self" rel="noopener">Alfbern</a>. Quite shy, and friends with <a data-href="Romero" href="/pcs/romero.html" class="internal-link" target="_self" rel="noopener">Romero</a>.]]></description><link>npcs/brother-leywin.html</link><guid isPermaLink="false">NPCs/Brother Leywin.md</guid><pubDate>Wed, 03 Jul 2024 14:06:09 GMT</pubDate></item><item><title><![CDATA[Mattea]]></title><description><![CDATA[ 
+ <br>A strong, half-elven woman who works as a ranger in the swamp in <a data-href="Local Region" href="/locations/local-region.html" class="internal-link" target="_self" rel="noopener">Local Region</a>. Wears plain clothing with lots of camouflage and pockets. We met her on our way to <a data-href="Mount Bolbotan" href="/locations/mount-bolbotan.html" class="internal-link" target="_self" rel="noopener">Mount Bolbotan</a> with <a data-href="Sösmöt" href="/npcs/sösmöt.html" class="internal-link" target="_self" rel="noopener">Sösmöt</a> (see <a data-href="Session 3 - Over the river and through the swamp" href="/session-notes/session-3-over-the-river-and-through-the-swamp.html" class="internal-link" target="_self" rel="noopener">Session 3 - Over the river and through the swamp</a>). Owns a sexy little tent (her own clothes transform into a tent around her?).]]></description><link>npcs/mattea.html</link><guid isPermaLink="false">NPCs/Mattea.md</guid><pubDate>Wed, 03 Jul 2024 14:06:21 GMT</pubDate></item><item><title><![CDATA[Merike]]></title><description><![CDATA[ 
+ <br>
+<br>Three-headed firetruck dragon
+<br>Wears magical harness that gives zir magical wings to provide flight. 
+<br>In a relationship with <a data-href="Saboh Layosh" href="/npcs/saboh-layosh.html" class="internal-link" target="_self" rel="noopener">Saboh Layosh</a> and <a data-href="Anastriella" href="/npcs/anastriella.html" class="internal-link" target="_self" rel="noopener">Anastriella</a>
+]]></description><link>npcs/merike.html</link><guid isPermaLink="false">NPCs/Merike.md</guid><pubDate>Wed, 03 Jul 2024 13:22:39 GMT</pubDate></item><item><title><![CDATA[Pishti]]></title><description><![CDATA[ 
+ <br>A drake. Child of <a data-href="Merike" href="/npcs/merike.html" class="internal-link" target="_self" rel="noopener">Merike</a>, <a data-href="Saboh Layosh" href="/npcs/saboh-layosh.html" class="internal-link" target="_self" rel="noopener">Saboh Layosh</a>, and <a data-href="Anastriella" href="/npcs/anastriella.html" class="internal-link" target="_self" rel="noopener">Anastriella</a>. Goes to school in <a data-href="Phur D'eau" href="/locations/phur-d'eau.html" class="internal-link" target="_self" rel="noopener">Phur D'eau</a>.]]></description><link>npcs/pishti.html</link><guid isPermaLink="false">NPCs/Pishti.md</guid><pubDate>Wed, 03 Jul 2024 13:25:28 GMT</pubDate></item><item><title><![CDATA[Roy Earthdweller]]></title><description><![CDATA[ 
+ <br>Dwarf and local wheelmaker in <a data-href="Alfbern" href="/locations/alfbern.html" class="internal-link" target="_self" rel="noopener">Alfbern</a>. Married to <a data-href="Anya" href="/Anya" class="internal-link" target="_self" rel="noopener">Anya</a> (see <a data-href="Session 1 - Wedding Woes" href="/session-notes/session-1-wedding-woes.html" class="internal-link" target="_self" rel="noopener">Session 1 - Wedding Woes</a>)]]></description><link>npcs/roy-earthdweller.html</link><guid isPermaLink="false">NPCs/Roy Earthdweller.md</guid><pubDate>Wed, 03 Jul 2024 12:03:00 GMT</pubDate></item><item><title><![CDATA[Saboh Layosh]]></title><description><![CDATA[ 
+ <br>
+<br>Several-hundred-year-old, dark-skinned dwarven man
+<br>Chief of the Fire Brigade in <a data-href="Alfbern" href="/locations/alfbern.html" class="internal-link" target="_self" rel="noopener">Alfbern</a>
+<br>In a relationship with <a data-href="Merike" href="/npcs/merike.html" class="internal-link" target="_self" rel="noopener">Merike</a> and <a data-href="Anastriella" href="/npcs/anastriella.html" class="internal-link" target="_self" rel="noopener">Anastriella</a>
+]]></description><link>npcs/saboh-layosh.html</link><guid isPermaLink="false">NPCs/Saboh Layosh.md</guid><pubDate>Wed, 03 Jul 2024 11:50:20 GMT</pubDate></item><item><title><![CDATA[Sister Graelea]]></title><description><![CDATA[ 
+ <br>A firbolg priestess with a strong build. Her religion is basically 'vibes'. She performed the ceremony marrying <a data-href="Roy Earthdweller" href="/npcs/roy-earthdweller.html" class="internal-link" target="_self" rel="noopener">Roy Earthdweller</a> and <a data-href="Anya" href="/Anya" class="internal-link" target="_self" rel="noopener">Anya</a> in <a data-href="Alfbern" href="/locations/alfbern.html" class="internal-link" target="_self" rel="noopener">Alfbern</a>, then invited <a data-href="Finvelinor" href="/pcs/finvelinor.html" class="internal-link" target="_self" rel="noopener">Finvelinor</a> to her home following the reception.]]></description><link>npcs/sister-graelea.html</link><guid isPermaLink="false">NPCs/Sister Graelea.md</guid><pubDate>Wed, 03 Jul 2024 12:30:04 GMT</pubDate></item><item><title><![CDATA[Sister Marygold]]></title><description><![CDATA[ 
+ <br>Follower of <a data-href="Trea'mor" href="/gods/trea'mor.html" class="internal-link" target="_self" rel="noopener">Trea'mor</a> in <a data-href="Alfbern" href="/locations/alfbern.html" class="internal-link" target="_self" rel="noopener">Alfbern</a>]]></description><link>npcs/sister-marygold.html</link><guid isPermaLink="false">NPCs/Sister Marygold.md</guid><pubDate>Wed, 03 Jul 2024 14:06:44 GMT</pubDate></item><item><title><![CDATA[Sösmöt]]></title><description><![CDATA[ 
+ <br>
+<br>Silver Dragonborn
+<br><a data-href="Romero" href="/pcs/romero.html" class="internal-link" target="_self" rel="noopener">Romero</a>'s mentor
+<br>Very far removed relative of <a data-href="Merike" href="/npcs/merike.html" class="internal-link" target="_self" rel="noopener">Merike</a> the firetruck dragon.
+]]></description><link>npcs/sösmöt.html</link><guid isPermaLink="false">NPCs/Sösmöt.md</guid><pubDate>Wed, 03 Jul 2024 11:03:39 GMT</pubDate></item><item><title><![CDATA[Wereboar-Harangon]]></title><description><![CDATA[ 
+ ]]></description><link>npcs/wereboar-harangon.html</link><guid isPermaLink="false">NPCs/Wereboar-Harangon.md</guid><pubDate>Wed, 03 Jul 2024 13:51:38 GMT</pubDate></item><item><title><![CDATA[Finvelinor]]></title><description><![CDATA[ 
+ <br><br>Appears as a tall, young, lithe elven man with long braided auburn hair and bright amber eyes. His clothing is often rich and saturated with many natural hues, especially greens. He is typically very friendly, with a warm smile on his face and a kind word even for a stranger. <br><br>
+<br><a data-href="Sister Graelea" href="/npcs/sister-graelea.html" class="internal-link" target="_self" rel="noopener">Sister Graelea</a>
+<br><a data-href="Mattea" href="/npcs/mattea.html" class="internal-link" target="_self" rel="noopener">Mattea</a>
+]]></description><link>pcs/finvelinor.html</link><guid isPermaLink="false">PCs/Finvelinor.md</guid><pubDate>Fri, 12 Jul 2024 16:04:45 GMT</pubDate></item><item><title><![CDATA[Melinor]]></title><description><![CDATA[ 
+ <br>
+<br>Elven scout (Rogue) from the <a data-href="Royal Guard" href="/Royal Guard" class="internal-link" target="_self" rel="noopener">Royal Guard</a>, left in disgrace?
+<br>Possibly <a data-href="Finvelinor" href="/pcs/finvelinor.html" class="internal-link" target="_self" rel="noopener">Finvelinor</a>'s closest friend, as <a data-href="Finvelinor" href="/pcs/finvelinor.html" class="internal-link" target="_self" rel="noopener">Finvelinor</a> once saved his life and they have been traveling together since
+<br>Quiet, reserved, perhaps even tortured
+<br>Keeps an old knife which he never uses
+
+<br>told Fin it was a gift from someone important and is meant to keep him safe
+<br>has wooden hilt with 'M' carved in one side and 'E' on the other.
+<br>has apparent sentimental value
+
+
+]]></description><link>pcs/melinor.html</link><guid isPermaLink="false">PCs/Melinor.md</guid><pubDate>Wed, 03 Jul 2024 12:30:55 GMT</pubDate></item><item><title><![CDATA[Romero]]></title><description><![CDATA[ 
+ <br>
+<br>Reborn Cleric of <a data-href="Trea'mor" href="/gods/trea'mor.html" class="internal-link" target="_self" rel="noopener">Trea'mor</a>
+<br>Curly black hair and a beard
+<br>As a returned undead, he does not need to eat, drink, or sleep, requires very little rest, and is less affected by poisons. However, he also feels very little emotion.
+<br>Missing most of his memories
+<br>Earliest memory is of suddenly being conscious in the tower of a necromantic wizard from which he immediately ran away
+<br>Studies under his mentor, <a data-href="Sösmöt" href="/npcs/sösmöt.html" class="internal-link" target="_self" rel="noopener">Sösmöt</a>
+]]></description><link>pcs/romero.html</link><guid isPermaLink="false">PCs/Romero.md</guid><pubDate>Wed, 03 Jul 2024 11:28:45 GMT</pubDate></item><item><title><![CDATA[Session 1 - Wedding Woes]]></title><description><![CDATA[<a class="tag" href="?query=tag:Palinka" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Palinka</a> 
+ <br><br>"The Duke" of Gnome city<br>
+And a Royal Family (can't hold title of city leader) with guards, which is what <a data-href="Melinor" href="/pcs/melinor.html" class="internal-link" target="_self" rel="noopener">Melinor</a> was part of.<br><br>We find ourselves on an Autumn day in <a data-href="Alfbern" href="/locations/alfbern.html" class="internal-link" target="_self" rel="noopener">Alfbern</a>, a city we already know!<br>
+<br>Arrived last night/afternoon at the <a data-href="Headless Vargouille" href="/locations/headless-vargouille.html" class="internal-link" target="_self" rel="noopener">Headless Vargouille</a> Inn. 
+<br>Monastery of <a data-href="Trea'mor" href="/gods/trea'mor.html" class="internal-link" target="_self" rel="noopener">Trea'mor</a> in <a data-href="Alfbern" href="/locations/alfbern.html" class="internal-link" target="_self" rel="noopener">Alfbern</a>, with 5 monks living there.
+<br><a data-href="Amit" href="/npcs/amit.html" class="internal-link" target="_self" rel="noopener">Amit</a> is the half-elven innkeeper, having a fight outside with a dwarven man (something about barrels?), <a data-href="Roy Earthdweller" href="/npcs/roy-earthdweller.html" class="internal-link" target="_self" rel="noopener">Roy Earthdweller</a>, the local wheel-maker. 
+<br><a data-tooltip-position="top" aria-label="Roy Earthdweller" data-href="Roy Earthdweller" href="/npcs/roy-earthdweller.html" class="internal-link" target="_self" rel="noopener">Roy</a> says <a data-href="Amit" href="/npcs/amit.html" class="internal-link" target="_self" rel="noopener">Amit</a> has always been respectable, but <a data-tooltip-position="top" aria-label="Roy Earthdweller" data-href="Roy Earthdweller" href="/npcs/roy-earthdweller.html" class="internal-link" target="_self" rel="noopener">Roy</a> is getting married, his family is throwing a party and they need "the good stuff". But 2 barrels of <a href=".?query=tag:Palinka" class="tag" target="_blank" rel="noopener">#Palinka</a> (strong spirit) went missing. 
+<br>There were guards watching the carts the barrels were loaded onto but they claim not to have seen anything
+<br><a data-href="Finvelinor" href="/pcs/finvelinor.html" class="internal-link" target="_self" rel="noopener">Finvelinor</a> and <a data-href="Melinor" href="/pcs/melinor.html" class="internal-link" target="_self" rel="noopener">Melinor</a> both may have heard the sounds of rumbling (rolling of barrels), possibly another cart moving around, the preceding evening.
+<br>Courtyard is rectangular with cobblestones. Frequently used, not often repaired.
+
+<br>2 carts closer to <a data-tooltip-position="top" aria-label="Roy Earthdweller" data-href="Roy Earthdweller" href="/npcs/roy-earthdweller.html" class="internal-link" target="_self" rel="noopener">Roy</a>'s house
+<br><a data-tooltip-position="top" aria-label="Beverly" data-href="Beverly" href="/npcs/beverly.html" class="internal-link" target="_self" rel="noopener">1 human guard from fire brigade</a>. She sits on a stone near the wagons.
+
+
+<br>She claims to still be waking up (whoops!) and complains about the bright light. No sign of hangover, but she seems severely exhausted, more than what one should be after a night of drinking or guarding or whatever.
+<br>Says <a data-tooltip-position="top" aria-label="Saboh Layosh" data-href="Saboh Layosh" href="/npcs/saboh-layosh.html" class="internal-link" target="_self" rel="noopener">the chief of the fire brigade</a> is super busy, but everything got very busy 5 days ago? But the chief hasn't explained why. He started going on longer expeditions, often outside of the city taking care of who knows what. Thought the chief was dealing with the situation with <a data-href="Merike" href="/npcs/merike.html" class="internal-link" target="_self" rel="noopener">Merike</a> as usual, but ze has to sleep a lot (because ancient), and whenever we use zir help it has to be managed as a limited resource. Ze sleeps in town but also in a cave a day's walk away in the mountains. 
+<br><a data-href="Finvelinor" href="/pcs/finvelinor.html" class="internal-link" target="_self" rel="noopener">Finvelinor</a> checks <a data-href="Beverly" href="/npcs/beverly.html" class="internal-link" target="_self" rel="noopener">Beverly</a> for signs of being drugged. <a data-href="Romero" href="/pcs/romero.html" class="internal-link" target="_self" rel="noopener">Romero</a> looks around for signs of magic, like sleeping spells, and <a data-href="Melinor" href="/pcs/melinor.html" class="internal-link" target="_self" rel="noopener">Melinor</a> investigates the area for tracks. 
+<br><a data-href="Romero" href="/pcs/romero.html" class="internal-link" target="_self" rel="noopener">Romero</a> senses a kind of divine energy present, vibes of if you cooked soup several hours ago and could still smell it in the area.
+<br><a data-href="Finvelinor" href="/pcs/finvelinor.html" class="internal-link" target="_self" rel="noopener">Finvelinor</a> tries divine sense and "smells" it's strongest where the barrels were and can follow the traces (wispy cartoon smell) to a gap in the stone fence of the courtyard, to a field and forest by the time the ability ends. 
+<br>Continuing forward we see light and smell smoke/fire in what is probably a clearing.
+<br><br>
+<br><a data-href="Romero" href="/pcs/romero.html" class="internal-link" target="_self" rel="noopener">Romero</a> runs to put out the fire with his blanket
+<br><a data-href="Finvelinor" href="/pcs/finvelinor.html" class="internal-link" target="_self" rel="noopener">Finvelinor</a> senses a divine force pushing the barrels and calls out to the others
+<br><a data-href="Melinor" href="/pcs/melinor.html" class="internal-link" target="_self" rel="noopener">Melinor</a> runs to tackle a barrel but misses
+<br>One of the barrels spits acid? at Fin, but misses, the other sprays flaming alcohol which Fin takes right to the face.
+<br><a data-href="Romero" href="/pcs/romero.html" class="internal-link" target="_self" rel="noopener">Romero</a> rolls over some fire to put it out
+<br><a data-href="Finvelinor" href="/pcs/finvelinor.html" class="internal-link" target="_self" rel="noopener">Finvelinor</a> puts out his own fire then lasso's one of the barrels and tries to speak to it gently to calm it down. Hears gurgling in response.
+<br><a data-href="Melinor" href="/pcs/melinor.html" class="internal-link" target="_self" rel="noopener">Melinor</a> tries to lasso his own but misses.
+<br><a data-href="Romero" href="/pcs/romero.html" class="internal-link" target="_self" rel="noopener">Romero</a> speaks down to them like children to make them stop playing but it has no effect.
+<br>Barrel breaks free from Fin
+<br><a data-href="Finvelinor" href="/pcs/finvelinor.html" class="internal-link" target="_self" rel="noopener">Finvelinor</a> commands one of the barrels to freeze and runs and grabs the rope still attached to the other.
+<br><a data-href="Melinor" href="/pcs/melinor.html" class="internal-link" target="_self" rel="noopener">Melinor</a> manages to remove the top of one barrel and finds a glowing shrimp creature swimming around inside.
+<br><a data-href="Finvelinor" href="/pcs/finvelinor.html" class="internal-link" target="_self" rel="noopener">Finvelinor</a>'s barrel spits a line of burning alcohol, <a data-href="Melinor" href="/pcs/melinor.html" class="internal-link" target="_self" rel="noopener">Melinor</a> saves but Fin takes another face full of fire and falls prone again with only 3 HP remaining.
+<br><a data-href="Romero" href="/pcs/romero.html" class="internal-link" target="_self" rel="noopener">Romero</a> tries to get the shrimp out of the barrel but misses. It laughs at him.
+<br><a data-href="Finvelinor" href="/pcs/finvelinor.html" class="internal-link" target="_self" rel="noopener">Finvelinor</a> gets the flames off himself and moves to the other side of the barrel, then heals himself by laying on hands.
+<br><a data-href="Melinor" href="/pcs/melinor.html" class="internal-link" target="_self" rel="noopener">Melinor</a> manages to fish the shrimp out of his barrel, which exclaims "Fuck" in celestial (only <a data-href="Romero" href="/pcs/romero.html" class="internal-link" target="_self" rel="noopener">Romero</a> understands).
+<br>The other barrel sprays fire and this barrel catches fire. But <a data-href="Romero" href="/pcs/romero.html" class="internal-link" target="_self" rel="noopener">Romero</a> tries to put it out. Fails, but threatens the shrimp with putting it in his alms box. The shrimp claims to just be doing what it's told, that we don't know how to deal with fire and that it's teaching us? 
+<br><a data-href="Finvelinor" href="/pcs/finvelinor.html" class="internal-link" target="_self" rel="noopener">Finvelinor</a> tries to command and intimidate the second shrimp but to no avail.
+<br><a data-tooltip-position="top" aria-label="Saboh Layosh" data-href="Saboh Layosh" href="/npcs/saboh-layosh.html" class="internal-link" target="_self" rel="noopener">A dark-skinned dwarven man</a> arrives with a barrel backpack complaining about the fire. Fires his hose and sprays the barrel and <a data-href="Melinor" href="/pcs/melinor.html" class="internal-link" target="_self" rel="noopener">Melinor</a>. This knocks over the barrel which isn't perfectly sealed, and it begins leaking. 
+<br><a data-href="Melinor" href="/pcs/melinor.html" class="internal-link" target="_self" rel="noopener">Melinor</a> rights the barrel and runs the shrimp away.
+<br><a data-href="Romero" href="/pcs/romero.html" class="internal-link" target="_self" rel="noopener">Romero</a> heals Mel with a word, jumps over some fire and tries to pry the lid of the other barrel off with a dagger but doesn't quite manage (lowers the DC)
+<br><a data-href="Finvelinor" href="/pcs/finvelinor.html" class="internal-link" target="_self" rel="noopener">Finvelinor</a> gets the lid off and snatches the shrimp out, then runs over to the rocks.
+<br>The dwarf sprays the fire but gets knocked down by the force and doesn't get it all.
+<br><a data-href="Melinor" href="/pcs/melinor.html" class="internal-link" target="_self" rel="noopener">Melinor</a> tries to cut off the shrimp's head with his dagger but can't get through the carapace.
+<br>The shrimps try to spit acid on us but both fail.
+<br><a data-href="Romero" href="/pcs/romero.html" class="internal-link" target="_self" rel="noopener">Romero</a> rolls the fire out.
+<br><a data-href="Finvelinor" href="/pcs/finvelinor.html" class="internal-link" target="_self" rel="noopener">Finvelinor</a> slices partway through but doesn't manage to kill it.
+<br>Dwarf grumbles about newbies who care more about wine than protecting the community and we tell him off.
+<br><a data-href="Melinor" href="/pcs/melinor.html" class="internal-link" target="_self" rel="noopener">Melinor</a> finally manages to sneak attack, then throws a knife and hits Fin's.
+<br><br>
+<br><a data-href="Romero" href="/pcs/romero.html" class="internal-link" target="_self" rel="noopener">Romero</a> explains to us that one of the shrimps mentioned they were "training" us to handle fire, on the orders of their "boss".
+<br>This dwarf is <a data-tooltip-position="top" aria-label="Saboh Layosh" data-href="Saboh Layosh" href="/npcs/saboh-layosh.html" class="internal-link" target="_self" rel="noopener">the chief of the fire brigade</a>😱. 
+<br>Says Divination wizards claim the volcano is extinct and won't erupt again, but <a data-href="Perforus" href="/gods/perforus.html" class="internal-link" target="_self" rel="noopener">Perforus</a> is telling his followers to get ready for when it erupts again. God is trying to get the whole region ready, not just his followers, by sending fire elementals and little tricky shrimp like this. (Says Perforus is a nice guy, in the fairy tales and myths, but kinda hard to deal with like this 😅)
+<br>Gives us one vial of ointment each for treating burns - 1d12+3 healing from fire damage.
+<br>IS THE SUN A GIANT FLAMING EGG WITH A CREATURE GROWING INSIDE?
+<br><br>
+<br>
+Arrive at wedding before ceremony. <a data-href="Melinor" href="/pcs/melinor.html" class="internal-link" target="_self" rel="noopener">Melinor</a> sneaks almost unnaturally well into the wedding.
+
+<br>
+Officiated by a firbolg woman (<a data-href="Sister Graelea" href="/npcs/sister-graelea.html" class="internal-link" target="_self" rel="noopener">Sister Graelea</a>) with strong build and long flowy blue dress. Religion is basically 'vibes' 😅
+
+<br>
+Adorning bride (<a data-href="Anya" href="/Anya" class="internal-link" target="_self" rel="noopener">Anya</a>) with blue flowers (like blue bells and tiny not-violets). Becomes flower shoulder-pads. 
+
+<br>
+<a data-tooltip-position="top" aria-label="Roy Earthdweller" data-href="Roy Earthdweller" href="/npcs/roy-earthdweller.html" class="internal-link" target="_self" rel="noopener">Roy</a> carried out on his brothers' arms making a chair. 
+
+<br>
+<a data-href="Anya" href="/Anya" class="internal-link" target="_self" rel="noopener">Anya</a> kneeling on one knee. 
+
+<br>
+<a data-tooltip-position="top" aria-label="Roy Earthdweller" data-href="Roy Earthdweller" href="/npcs/roy-earthdweller.html" class="internal-link" target="_self" rel="noopener">Roy</a> leaps from the seat, runs and leaps into <a data-href="Anya" href="/Anya" class="internal-link" target="_self" rel="noopener">Anya</a>'s arms who holds him up in the air like a dance lift. <a data-href="Anya" href="/Anya" class="internal-link" target="_self" rel="noopener">Anya</a> not a super strong woman but obviously been practicing. 
+
+<br>
+Lowers him down, they embrace. 
+
+<br>
+<a data-href="Sister Graelea" href="/npcs/sister-graelea.html" class="internal-link" target="_self" rel="noopener">Sister Graelea</a> takes one of the flowers from the shoulder pads and unwinds them, re-winding them around the couple. 
+
+<br>
+Then the couple teleports away and <a data-href="Sister Graelea" href="/npcs/sister-graelea.html" class="internal-link" target="_self" rel="noopener">Sister Graelea</a> gives a speech about them making their "first connection" as a married couple, that it's a conversation. (We all know she means sex 😉)
+
+<br>
+Party begins. Dinner without the couple. Then dancing, with a dance in a circle with the close family, then at the height the couple reappears in different outfits.
+
+<br>
+<a data-tooltip-position="top" aria-label="Roy Earthdweller" data-href="Roy Earthdweller" href="/npcs/roy-earthdweller.html" class="internal-link" target="_self" rel="noopener">Roy</a> comes and talks to us while <a data-href="Anya" href="/Anya" class="internal-link" target="_self" rel="noopener">Anya</a> is dancing with her sisters and thanks us for getting the wine.
+
+<br>
+<a data-href="Finvelinor" href="/pcs/finvelinor.html" class="internal-link" target="_self" rel="noopener">Finvelinor</a> chats up <a data-href="Sister Graelea" href="/npcs/sister-graelea.html" class="internal-link" target="_self" rel="noopener">Sister Graelea</a>, they dance for a while and she "invites him back to her shrine" 🍆💦
+
+<br>
+<a data-href="Melinor" href="/pcs/melinor.html" class="internal-link" target="_self" rel="noopener">Melinor</a> distances himself from the festivities a bit and 
+
+<br>
+<a data-href="Romero" href="/pcs/romero.html" class="internal-link" target="_self" rel="noopener">Romero</a> sits by himself contemplatively, looking a bit unhappy. <a data-href="Brother Leywin" href="/npcs/brother-leywin.html" class="internal-link" target="_self" rel="noopener">Brother Leywin</a> (high elf) joins him. <a data-href="Romero" href="/pcs/romero.html" class="internal-link" target="_self" rel="noopener">Romero</a> opens up about his feelings, not knowing what he still doesn't have or what it could have felt like, what he lost. <a data-href="Brother Leywin" href="/npcs/brother-leywin.html" class="internal-link" target="_self" rel="noopener">Brother Leywin</a> thinks it's already beautiful that <a data-href="Trea'mor" href="/gods/trea'mor.html" class="internal-link" target="_self" rel="noopener">Trea'mor</a> brought him back. 
+
+<br>
+<a data-href="Romero" href="/pcs/romero.html" class="internal-link" target="_self" rel="noopener">Romero</a>'s <a data-tooltip-position="top" aria-label="Sösmöt" data-href="Sösmöt" href="/npcs/sösmöt.html" class="internal-link" target="_self" rel="noopener">mentor</a> left for volcano, trying to work out holy water logistics due to vampire problem.
+
+<br>
+<a data-href="Finvelinor" href="/pcs/finvelinor.html" class="internal-link" target="_self" rel="noopener">Finvelinor</a> and <a data-href="Romero" href="/pcs/romero.html" class="internal-link" target="_self" rel="noopener">Romero</a> find <a data-href="Melinor" href="/pcs/melinor.html" class="internal-link" target="_self" rel="noopener">Melinor</a> sitting staring at an old knife he never uses for anything. Has told Fin it was a gift from someone important and it's meant to keep him safe. Wooden hilt with an M carved in one side and an E on the other side.
+
+<br>
+<a data-tooltip-position="top" aria-label="Saboh Layosh" data-href="Saboh Layosh" href="/npcs/saboh-layosh.html" class="internal-link" target="_self" rel="noopener">Saboh</a> comes in at the moment <a data-href="Romero" href="/pcs/romero.html" class="internal-link" target="_self" rel="noopener">Romero</a> is trying to light straw on fire and tells him off. But <a data-href="Romero" href="/pcs/romero.html" class="internal-link" target="_self" rel="noopener">Romero</a> convinces him to let them take a key to the fire brigade practice room to mess around with fire. Needless to say they're quite drunk at this point...
+
+<br>
+Mel tries to drunkenly add a flower to <a data-href="Anya" href="/Anya" class="internal-link" target="_self" rel="noopener">Anya</a>'s hair but she catches him. When he explains how pretty she looks and he just wanted to add a flower, she asks him to put it in her hair. Anya expresses her gratitude for bringing back the Palinka —&nbsp;her sisters were unsure about <a data-tooltip-position="top" aria-label="Roy Earthdweller" data-href="Roy Earthdweller" href="/npcs/roy-earthdweller.html" class="internal-link" target="_self" rel="noopener">Roy</a>.
+
+<br>
+Mel and Rom experiment the rest of the night lighting different qualities of Palinka on fire...
+
+]]></description><link>session-notes/session-1-wedding-woes.html</link><guid isPermaLink="false">Session Notes/Session 1 - Wedding Woes.md</guid><pubDate>Wed, 03 Jul 2024 12:32:29 GMT</pubDate></item><item><title><![CDATA[Session 2 - Missing Priest]]></title><description><![CDATA[ 
+ <br><br>
+<br>Waking up the next morning after the wedding. <a data-href="Romero" href="/pcs/romero.html" class="internal-link" target="_self" rel="noopener">Romero</a> fails his Con save about getting drunk, he's the only one of us who's hungover somehow.
+<br><a data-href="Romero" href="/pcs/romero.html" class="internal-link" target="_self" rel="noopener">Romero</a> goes to church, but the whole town was at the wedding last night so no one is there 😅. 
+<br>He asks permission to follow his <a data-tooltip-position="top" aria-label="Sösmöt" data-href="Sösmöt" href="/npcs/sösmöt.html" class="internal-link" target="_self" rel="noopener">mentor</a> to the volcano from <a data-href="Sister Marygold" href="/npcs/sister-marygold.html" class="internal-link" target="_self" rel="noopener">Sister Marygold</a>. She doesn't have the authority, but has a sending stone to ask <a data-href="Sösmöt" href="/npcs/sösmöt.html" class="internal-link" target="_self" rel="noopener">Sösmöt</a>. 
+<br>"<a data-href="Mount Bolbotan" href="/locations/mount-bolbotan.html" class="internal-link" target="_self" rel="noopener">Mount Bolbotan</a>" is the name of the volcano.
+<br><a data-href="Sösmöt" href="/npcs/sösmöt.html" class="internal-link" target="_self" rel="noopener">Sösmöt</a> isn't answering the phone! <a data-href="Sister Marygold" href="/npcs/sister-marygold.html" class="internal-link" target="_self" rel="noopener">Sister Marygold</a> asks him to make a post on the village Quest Board to ask for extra support to see if he's ok.
+<br><a data-href="Sister Graelea" href="/npcs/sister-graelea.html" class="internal-link" target="_self" rel="noopener">Sister Graelea</a> provides <a data-href="Finvelinor" href="/pcs/finvelinor.html" class="internal-link" target="_self" rel="noopener">Finvelinor</a> with jam and brioche for breakfast, but has to take a sacred day of rest after the wedding. Fin arrives to meet Mel and Rom around 8 am in a particularly good mood.
+<br><a data-href="Romero" href="/pcs/romero.html" class="internal-link" target="_self" rel="noopener">Romero</a> expresses his concerns for his mentor and the other two agree to look into his disappearance.
+<br><br>
+<br>3 hours in we find dragonborn footprints off the side of the road. <a data-href="Romero" href="/pcs/romero.html" class="internal-link" target="_self" rel="noopener">Romero</a> and Mel spot the sending stone under a tree trunk. The footprints disappear. 
+<br>On the tree trunk is a pool of glittery green water which Fin dips his finger in and burns himself on acid.
+<br>Fin divinely senses that the puddle gives off undead vibes and seems to have been left there deliberately.
+<br>As Mel is looking at the mud, it begins to move a bit. In the moving mud he also finds an insignia of <a data-href="Romero" href="/pcs/romero.html" class="internal-link" target="_self" rel="noopener">Romero</a>'s church! GASP
+<br><br>
+<br>The mud creature gets up and flies further into the swamp as <a data-href="Romero" href="/pcs/romero.html" class="internal-link" target="_self" rel="noopener">Romero</a> attempts to grapple with it. It gurgles as it flies. Some kind of language? Screaming something into the swamp.
+<br>Creature has wings, little head, long arms. Looks a bit skeletal, like the way the mud is dripping it doesn't quite have a solid body.
+<br>Fin runs up and grabs the insignia off the ground, hits the creature with an arrow. It hisses and looks back at him angrily.
+<br>Another stirs next to Fin's feet and spits mud at him but misses. 
+<br>We hear a moan from deeper in the swamp
+<br>Can see a bit further away some manmade stone
+<br>Fin runs toward a draconic claw in the swamp, hears a voice saying "oh no, I didn't think this would happen to me". 
+<br><a data-href="Romero" href="/pcs/romero.html" class="internal-link" target="_self" rel="noopener">Romero</a> distracts one of the creatures (gray) from attacking Fin. It doubles back towards him.
+<br><a data-href="Melinor" href="/pcs/melinor.html" class="internal-link" target="_self" rel="noopener">Melinor</a> manages to crit sneak attack one of the creatures next to <a data-href="Romero" href="/pcs/romero.html" class="internal-link" target="_self" rel="noopener">Romero</a>. It blows apart in a sticky, muddy explosion and dissolves into the ground.
+<br>Rom smacks the other one next to him with his mace.
+<br>The mud creatures are pretty bad at attacking and have missed everything so far.
+<br>When Fin arrives at the dragonborn, narrowly dodges spit from the creature which turns out to be on him. But then is hit by more acid thrown from behind the stone (appears to be same acid as from the tree stump).
+<br><a data-href="Melinor" href="/pcs/melinor.html" class="internal-link" target="_self" rel="noopener">Melinor</a> spots a skeleton holding a jug of green liquid behind the stone.
+<br>Fin smites the creature on <a data-href="Sösmöt" href="/npcs/sösmöt.html" class="internal-link" target="_self" rel="noopener">Sösmöt</a>, hitting it with both swords, and is lucky enough that the explosion dissipates away from both him and Sossy.
+<br>The skeleton fires acid at <a data-href="Melinor" href="/pcs/melinor.html" class="internal-link" target="_self" rel="noopener">Melinor</a> and manages to crit him once.
+<br>Fin covers Sossy as he starts moving back to the shore of the swamp.
+<br>Mel manages to shoot the skeleton, spinning its head around once
+<br>Fin heals Sossy, who is very thankful.
+<br>Skeleton gets frustrated and leaps out from behind the gravestone. Runs after Fin and Sossy.
+<br>Sossy offers Fin help with spells and stuff in thanks for saving his life.
+<br>Mel fires another arrow at the skeleton, breaking the acid jar and melting one of its hands off
+<br>The skeleton manages to catch up to Fin and Sossy, but Fin stabs it through the skull with his rapier. Though perhaps just being a Paladin was enough to scare it "to death"
+<br>As <a data-href="Romero" href="/pcs/romero.html" class="internal-link" target="_self" rel="noopener">Romero</a> kills the last mud creature, it hugs him and covers him in restrictive goo. 
+<br>Fin magically prestidigitates him clean.
+<br><br>
+<br>Sossy says he normally just deals with fire elemental creatures on the journey, so he thought he would be ok. 
+<br>Says the old grave belonged to a noble family (part of a now <a data-href="Sunken Mausoleum" href="/locations/sunken-mausoleum.html" class="internal-link" target="_self" rel="noopener">Sunken Mausoleum</a>) from 100s of years ago. Died from a plague?
+<br>Says the undead presence here could be related to the vampires he was going to help take care of.
+<br>He joins us to inspect the grave
+<br>Elven writing (poem) on the grave stone. Written by secular elves, not connected to any religion or god. Strange not to have some mention of the divine on a grave, even among a group like this. Grave seems about ~100 years old
+<br>Grooves on the corners of the obelisk at intervals that are good for climbing. Traces of acid on these grooves. 
+<br><a data-href="Romero" href="/pcs/romero.html" class="internal-link" target="_self" rel="noopener">Romero</a> decides to go for a dive in the mud to try to gather more info. Manages to feel the entrance door to the mausoleum... but that's about it. 
+<br>Then! <a data-href="Romero" href="/pcs/romero.html" class="internal-link" target="_self" rel="noopener">Romero</a> casts create water to allow himself to descend further. Feels a lock. Sticks his hand back up and Mel messages to ask what for, he asks for thieves tools and tries to open it but fails. Does however notice a bubble of acid escaping from the lock after trying the thieves tools on the stone door.
+<br>Sossy says there's <a data-tooltip-position="top" aria-label="Anastriella" data-href="Anastriella" href="/npcs/anastriella.html" class="internal-link" target="_self" rel="noopener">an artificer</a> working for the <a data-href="Fire Brigade" href="/factions/fire-brigade.html" class="internal-link" target="_self" rel="noopener">Fire Brigade</a> (partner of the <a data-tooltip-position="top" aria-label="Saboh Layosh" data-href="Saboh Layosh" href="/npcs/saboh-layosh.html" class="internal-link" target="_self" rel="noopener">fire chief</a>) who loves explosives/explosions, and she might be willing to help us off the record
+<br>He also uses another sending stone (with a bad-looking rune on it) to call the high priestess. (<a data-href="Anastriella" href="/npcs/anastriella.html" class="internal-link" target="_self" rel="noopener">Anastriella</a> is their artificer).
+<br>He throws the stone away when it "won't send" and it poofs away when it hits the ground. When we ask about it, he pulls it out of his pocket again and says Anastriella is a bit crazy.
+<br>Fin gets the strong impression that some magical effect is barring him from realizing what happened
+<br>Rom recognizes the rune as infernal but can't read it without doing some extra research.
+<br>Sossy thinks its his sending stone until we show him his real sending stone. 
+<br>Divine sense: stone is for sure infernal and cursed. The grave as well has infernal / unholy / desecrated vibes
+<br>Sossy probably found the cursed stone in the pool of acid in the tree stump. Jumped for joy upon finding it, and felt like the stone gave him a boon to move graciously through the air... before everything went to shit.
+<br><a data-href="Romero" href="/pcs/romero.html" class="internal-link" target="_self" rel="noopener">Romero</a> suggests it might be a magical device for spying on us.
+<br>Sös says he was headed out to make holy water with the other priests to defend against vampires. (Used up today's use of sending stone to tell friends about a cute butterfly).
+<br>We take a short rest and continue onward together]]></description><link>session-notes/session-2-missing-priest.html</link><guid isPermaLink="false">Session Notes/Session 2 - Missing Priest.md</guid><pubDate>Wed, 03 Jul 2024 13:13:37 GMT</pubDate></item><item><title><![CDATA[Session 3 - Over the river and through the swamp]]></title><description><![CDATA[ 
+ <br><br>
+<br>Spring nearby to get clean water (source in <a data-href="Bluewell" href="/locations/bluewell.html" class="internal-link" target="_self" rel="noopener">Bluewell</a>)
+<br>Sös sings us a song of rest and shares his specially prepared Kuo-Toa sushi with the rest of us
+<br>(Apparently those divine shrimp can be found at the volcano, so maybe we can actually try eating them!). Sushi place in <a data-href="Alfbern" href="/locations/alfbern.html" class="internal-link" target="_self" rel="noopener">Alfbern</a> has "vegan fireshrimp" and the taste is similar. Cleric of <a data-href="Perforus" href="/gods/perforus.html" class="internal-link" target="_self" rel="noopener">Perforus</a> who wanted to work at a sushi place in Alfbern making real divine shrimp but <a data-href="Saboh Layosh" href="/npcs/saboh-layosh.html" class="internal-link" target="_self" rel="noopener">Saboh Layosh</a> objected.
+<br><a data-tooltip-position="top" aria-label="Saboh Layosh" data-href="Saboh Layosh" href="/npcs/saboh-layosh.html" class="internal-link" target="_self" rel="noopener">Saboh</a> and <a data-href="Merike" href="/npcs/merike.html" class="internal-link" target="_self" rel="noopener">Merike</a> even have children together :) (Magic) (One of their children goes to high school in <a data-href="Phur D'eau" href="/locations/phur-d'eau.html" class="internal-link" target="_self" rel="noopener">Phur D'eau</a>)
+<br><a data-href="Merike" href="/npcs/merike.html" class="internal-link" target="_self" rel="noopener">Merike</a> is not a divinity, but has powerful connection to other planes, powerful being. Ze is <a data-href="Saboh Layosh" href="/npcs/saboh-layosh.html" class="internal-link" target="_self" rel="noopener">Saboh Layosh</a>'s warlock patron. Zir children, with <a data-href="Saboh Layosh" href="/npcs/saboh-layosh.html" class="internal-link" target="_self" rel="noopener">Saboh Layosh</a> and <a data-href="Anastriella" href="/npcs/anastriella.html" class="internal-link" target="_self" rel="noopener">Anastriella</a> are more from magic than having been physically carried in one of their bodies. 
+<br>Child in <a data-href="Phur D'eau" href="/locations/phur-d'eau.html" class="internal-link" target="_self" rel="noopener">Phur D'eau</a> (<a data-href="Pishti" href="/npcs/pishti.html" class="internal-link" target="_self" rel="noopener">Pishti</a>) is a drake. Have other children as well.
+<br>Pseudodragons sometimes born from <a data-href="Merike" href="/npcs/merike.html" class="internal-link" target="_self" rel="noopener">Merike</a>'s sneezes. Which children are actually zirs is more related to intention. 
+<br>Now that we've finished sating Melinor's curiosity about the birds and the bees and the dragons, we can head to <a data-href="Bolbrima" href="/Bolbrima" class="internal-link" target="_self" rel="noopener">Bolbrima</a> at the foot of the <a data-tooltip-position="top" aria-label="Mount Bolbotan" data-href="Mount Bolbotan" href="/locations/mount-bolbotan.html" class="internal-link" target="_self" rel="noopener">Volcano</a> (and have some divine shrimp 😅)
+<br><a data-href="Sösmöt" href="/npcs/sösmöt.html" class="internal-link" target="_self" rel="noopener">Sösmöt</a> thinks, with the news that <a data-href="Merike" href="/npcs/merike.html" class="internal-link" target="_self" rel="noopener">Merike</a> hasn't been seen for a while, that we should travel with more urgency to <a data-href="Bolbrima" href="/Bolbrima" class="internal-link" target="_self" rel="noopener">Bolbrima</a>. And we should signal a swamp ranger in <a data-href="Bluewell" href="/locations/bluewell.html" class="internal-link" target="_self" rel="noopener">Bluewell</a> to take us by boat.
+<br><br>
+<br>Beautiful early autumn day. See <a data-tooltip-position="top" aria-label="Mattea" data-href="Mattea" href="/npcs/mattea.html" class="internal-link" target="_self" rel="noopener">a half-elven woman</a> dressed in clean, plain clothes, on a plain gondola-like boat. Fish in the bed of the boat and shrimp pots dangling over the sides. Smiles at us and greets <a data-href="Sösmöt" href="/npcs/sösmöt.html" class="internal-link" target="_self" rel="noopener">Sösmöt</a>. Her name is <a data-href="Mattea" href="/npcs/mattea.html" class="internal-link" target="_self" rel="noopener">Mattea</a> and she is a swamp ranger.
+<br><a data-href="Mattea" href="/npcs/mattea.html" class="internal-link" target="_self" rel="noopener">Mattea</a> explains that on the way to <a data-href="Bolbrima" href="/Bolbrima" class="internal-link" target="_self" rel="noopener">Bolbrima</a> we can fish some silvered weapons out of the lake. Also checks on <a data-href="Sösmöt" href="/npcs/sösmöt.html" class="internal-link" target="_self" rel="noopener">Sösmöt</a>. 
+<br>Turns out we fought mud mephits this morning.
+<br><a data-href="Mattea" href="/npcs/mattea.html" class="internal-link" target="_self" rel="noopener">Mattea</a> navigates swamp very expertly and swiftly. <a data-href="Sösmöt" href="/npcs/sösmöt.html" class="internal-link" target="_self" rel="noopener">Sösmöt</a> uses his dragonborn water-based breath weapon to give a short motor-boat-like boost to our speed.
+<br>Arrive at the end of the day at a beautiful little island where we can take a long rest and watch the beautiful sunset over the lake. Can see a lighthouse on the other side. The sun sets in the west.
+<br><a data-href="Sösmöt" href="/npcs/sösmöt.html" class="internal-link" target="_self" rel="noopener">Sösmöt</a> is looking out at the sunset and praying, holding a book with the symbol of <a data-href="Trea'mor" href="/gods/trea'mor.html" class="internal-link" target="_self" rel="noopener">Trea'mor</a>. 
+<br>"Fin get his spells back from sleeping with strangers". Gives new meaning to the expression "dry spell"
+<br>Romero has a memory:
+Romero's memory 
+The memory is of his sister getting hurt. Remembers rushing towards her wanting to help her, having the feeling of not being able to help her, and doesn't remember what happened next. Was she healed? Did she die? She was severely injured, a big gash on her left side affecting her intestines. But he can't picture her. Didn't even remember he had a sister, now he doesn't know if she's dead and gone or not.
+
+
+<br><a data-href="Romero" href="/pcs/romero.html" class="internal-link" target="_self" rel="noopener">Romero</a> freaks out a little bit about the memory. Fin tries to use Command to get him to Relax, but fails and regrets his actions. <a data-href="Sösmöt" href="/npcs/sösmöt.html" class="internal-link" target="_self" rel="noopener">Sösmöt</a> gently and consensually uses detect thoughts to explore the memory with Romero
+<br><a data-href="Romero" href="/pcs/romero.html" class="internal-link" target="_self" rel="noopener">Romero</a> sees a slashing weapon, kind of natural material, possibly stone? Remember his mother, crying... (or aunt?). A woman smaller than he, older sister? <a data-href="Sösmöt" href="/npcs/sösmöt.html" class="internal-link" target="_self" rel="noopener">Sösmöt</a> manages to see the face. A sister around 9 or 10, Romero was younger at the time (7-8).
+<br><a data-href="Melinor" href="/pcs/melinor.html" class="internal-link" target="_self" rel="noopener">Melinor</a> and <a data-href="Romero" href="/pcs/romero.html" class="internal-link" target="_self" rel="noopener">Romero</a> play dice to help distract him from his painful memories.
+<br><a data-href="Mattea" href="/npcs/mattea.html" class="internal-link" target="_self" rel="noopener">Mattea</a> pitches a sexy little tent to protect from the elements. Fin joins her I think? (Her clothes ARE the tent?? Camo, lots of pockets)
+<br>In the morning, a bit before dawn, we hear the mooing of cows. <a data-href="Mattea" href="/npcs/mattea.html" class="internal-link" target="_self" rel="noopener">Mattea</a> explains that cows sometimes wander into the swamp. A big predatory bird eats these cows, and deer and stuff, so we should be careful. Look stork-like. The sound is often made by the bird to attract cows.
+<br><a data-href="Melinor" href="/pcs/melinor.html" class="internal-link" target="_self" rel="noopener">Melinor</a> thinks he sees a tree, but it starts moving, like the long neck of a giant bird. We see 3 of them??
+<br>Also see 2 hippogriffs flying towards us. Fin isn't sure if they're coming towards us or the birds (botyabalta). 
+<br>We fail a group stealth check and the birds see us... :/
+<br><br>
+<br>Bird (mouth big enough to swallow a whole cow) tries to bite Melinor but misses.
+<br><a data-href="Romero" href="/pcs/romero.html" class="internal-link" target="_self" rel="noopener">Romero</a> blesses Melinor, Fin, Sosmot, and Mattea
+<br>One hippogriff hits the other and flies away, taking an AoO. They're both wounded.
+<br>One of the birds bites Romero and he loses concentration and is grappled
+<br><a data-href="Melinor" href="/pcs/melinor.html" class="internal-link" target="_self" rel="noopener">Melinor</a> notices the bird eating Romero doesn't seem to be really trying to eat him in the normal way, just grappling him.
+<br><a data-tooltip-position="top" aria-label="Finvelinor" data-href="Finvelinor" href="/pcs/finvelinor.html" class="internal-link" target="_self" rel="noopener">Fin</a> smites the bird grappling Romero with his rapier, dealing 24 damage (more than double its HP) and realizes these creatures are undead.
+<br><a data-href="Melinor" href="/pcs/melinor.html" class="internal-link" target="_self" rel="noopener">Melinor</a> sneak attacks the other nearby bird and manages to take it down. Then hides in a bush (20).
+<br><a data-href="Sösmöt" href="/npcs/sösmöt.html" class="internal-link" target="_self" rel="noopener">Sösmöt</a> uses his bardic abilities to inspire Romero, then casts Aid 
+<br><a data-href="Mattea" href="/npcs/mattea.html" class="internal-link" target="_self" rel="noopener">Mattea</a> fires an arrow at the Vampire HGs attacking Sosmot and kills it. 
+<br>The 3rd bird sees Melinor hiding and bites him but doesn't manage to grapple him
+<br>Two hippogriffs flank Fin, one manages to bite and grapple him, the other misses completely.
+<br><a data-href="Romero" href="/pcs/romero.html" class="internal-link" target="_self" rel="noopener">Romero</a> summons a spiritual weapon to hit the HG grappling Fin, then casts Turn Undead
+<br>Other HG attacks the VHG grappling Fin but misses
+<br><a data-tooltip-position="top" aria-label="Finvelinor" data-href="Finvelinor" href="/pcs/finvelinor.html" class="internal-link" target="_self" rel="noopener">Fin</a> "Fin"ishes off the HG grappling him with a smite, and stabs the second next to him.
+<br><a data-href="Melinor" href="/pcs/melinor.html" class="internal-link" target="_self" rel="noopener">Melinor</a> steadies his aim and stabs a Bo nearly killing it.
+<br><a data-href="Sösmöt" href="/npcs/sösmöt.html" class="internal-link" target="_self" rel="noopener">Sösmöt</a> gives Fin inspiration, bites a piece of garlic and uses his cold garlic breath on the remaining VHG
+<br><a data-href="Mattea" href="/npcs/mattea.html" class="internal-link" target="_self" rel="noopener">Mattea</a> tries to stab the Bo but misses terribly.
+<br>VHG bites Sosmot and he manages to dance out of its grappling claws
+<br><a data-href="Romero" href="/pcs/romero.html" class="internal-link" target="_self" rel="noopener">Romero</a> hits the VHG with his spirit weapon and a shot from his crossbow
+<br><a data-href="Finvelinor" href="/pcs/finvelinor.html" class="internal-link" target="_self" rel="noopener">Finvelinor</a> kills the last VHG and tries to hit the last Bo but misses.
+<br><a data-href="Melinor" href="/pcs/melinor.html" class="internal-link" target="_self" rel="noopener">Melinor</a> kills the last Bo with a critical hit.
+<br><br>
+<br>With <a data-href="Mattea" href="/npcs/mattea.html" class="internal-link" target="_self" rel="noopener">Mattea</a>'s help, <a data-href="Finvelinor" href="/pcs/finvelinor.html" class="internal-link" target="_self" rel="noopener">Finvelinor</a> manages to approach the wounded hippogriff and put his hands on it, healing it for 5 HP. It cries a tear and nuzzles his hands. 
+<br><a data-href="Romero" href="/pcs/romero.html" class="internal-link" target="_self" rel="noopener">Romero</a>'s name becomes Sir Rots-a-lot.
+<br><a data-href="Finvelinor" href="/pcs/finvelinor.html" class="internal-link" target="_self" rel="noopener">Finvelinor</a> can see that the non-vampire HG has a half-healed gash/scar from a slashing weapon. The VHGs also have scars which killed them, and they were likely brought back as vampires.
+<br>Can see these animals were all trying to grapple us and then bite us to drain our life force.
+<br>We hear a rustling in the bushes, a snort, and arriving at the clearing we see a humanoid-boar, which suddenly stands up on its hind legs and transforms into a <a data-tooltip-position="top" aria-label="Wereboar-Harangon" data-href="Wereboar-Harangon" href="/npcs/wereboar-harangon.html" class="internal-link" target="_self" rel="noopener">Harangon</a> with tusks and coarser fur and says "Hmph."
+]]></description><link>session-notes/session-3-over-the-river-and-through-the-swamp.html</link><guid isPermaLink="false">Session Notes/Session 3 - Over the river and through the swamp.md</guid><pubDate>Fri, 05 Jul 2024 23:25:01 GMT</pubDate></item><item><title><![CDATA[Objectives]]></title><description><![CDATA[ 
+ <br><br>
+<br>Return to the <a data-href="Sunken Mausoleum" href="/locations/sunken-mausoleum.html" class="internal-link" target="_self" rel="noopener">Sunken Mausoleum</a> with <a data-href="Anastriella" href="/npcs/anastriella.html" class="internal-link" target="_self" rel="noopener">Anastriella</a> and/or explosives to explore inside
+<br>Investigate the origin and purpose of the <a data-href="Cursed Stone" href="/items/cursed-stone.html" class="internal-link" target="_self" rel="noopener">Cursed Stone</a>
+<br>Acquire silvered weapons from <a data-href="Bolto Lake" href="/Bolto Lake" class="internal-link" target="_self" rel="noopener">Bolto Lake</a>
+<br>Investigate the vampire problem around <a data-href="Bolbrima" href="/Bolbrima" class="internal-link" target="_self" rel="noopener">Bolbrima</a>
+
+<br>Get <a data-href="Sösmöt" href="/npcs/sösmöt.html" class="internal-link" target="_self" rel="noopener">Sösmöt</a> safely to <a data-href="Bolbrima" href="/Bolbrima" class="internal-link" target="_self" rel="noopener">Bolbrima</a> 
+
+
+<br><br>
+<br>Find out whether his sister still lives? Or at least what happened to her?
+]]></description><link>objectives.html</link><guid isPermaLink="false">Objectives.md</guid><pubDate>Fri, 05 Jul 2024 11:32:35 GMT</pubDate></item><item><title><![CDATA[README]]></title><description><![CDATA[ 
+ <br>This repository holds Anthony's notes for Sascha's campaign. ]]></description><link>readme.html</link><guid isPermaLink="false">README.md</guid><pubDate>Fri, 12 Jul 2024 16:10:19 GMT</pubDate></item></channel></rss>
